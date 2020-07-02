@@ -8,3 +8,5 @@ To make scripts work you should drag and drop your project directory or a script
 `compile_Replace.bat` - Replacing all original lua scripts with compiled ones.
 
 You can replace `bin` folder with your version of `LuaJIT`'s `bin` folder.
+
+Compiled scripts also work with [Love2D](https://love2d.org).
